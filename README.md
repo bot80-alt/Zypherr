@@ -1,2 +1,1 @@
-# Zypherr
-Avalanche1 project app
+**Mobile Application - JET Intracity Services**
